@@ -53,8 +53,7 @@ This analysis demonstrates how Wireshark can be used to monitor and investigate 
 
 ## 📸 Screenshots
 
-(Add your Wireshark screenshots here)
-
+IP Info.png
 ---
 
 ## 🚀 Skills Gained

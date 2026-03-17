@@ -51,11 +51,6 @@ This analysis demonstrates how Wireshark can be used to monitor and investigate 
 
 ---
 
-## 📸 Screenshots
-
-IP Info.png
----
-
 ## 🚀 Skills Gained
 
 * Network traffic analysis
